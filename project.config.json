@@ -10,7 +10,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.9.1",
 	"appid": "wxbe53e35c8c0c647b",
-	"projectname": "guangan",
+	"projectname": "wx_guangan",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
